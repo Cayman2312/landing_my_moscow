@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Roboto Condensed';
+  src: url('../fonts/Roboto_Condensed/RobotoCondensed-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Myriad Pro';
+  src: url('../fonts/Myriad-Pro_31655.ttf');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../fonts/Open_Sans/OpenSans-Regular.ttf');
+}
+
+$fontMain: 'Roboto Condensed', Arial, Helvetica, sans-serif;
+$fontMyriad: 'Myriad Pro', Arial, Helvetica, sans-serif;
+$fontCursive: 'MV Boli', cursive;
+$fontOpenSans: 'Open Sans', Arial, Helvetica, sans-serif;
